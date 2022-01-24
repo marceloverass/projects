@@ -129,3 +129,22 @@ span {
     background: linear-gradient(47deg, #405DE6, #833AB4, #F56040, #F77737);
     transition: all 500ms ease-in-out;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-size: 2rem;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #C13584;
+}
