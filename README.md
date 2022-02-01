@@ -1,6 +1,6 @@
 # Projects
  
- These are my projects, currently I only develop in HTML5 and CSS3.
+ These are my projects, currently I only develop in HTML5, CSS3 and JavaScript.
 
 [Login](https://marceloverass.github.io/projects/tela-de-login/)
 
