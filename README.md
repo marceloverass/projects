@@ -6,4 +6,4 @@
 
 [Website responsive](https://marceloverass.github.io/projects/android-page/)
 
-[Calculator] (https://marceloverass.github.io/Calculator/)
+[Calculator](https://marceloverass.github.io/Calculator/)
