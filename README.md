@@ -1,6 +1,4 @@
-# All my projects
- 
- some of my projects
+#  Some of my projects.
 
 [Login](https://marceloverass.github.io/projects/tela-de-login/)
 
