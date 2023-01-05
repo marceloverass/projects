@@ -5,16 +5,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="assets/css/components/thumbnail.css">
+    <link rel="stylesheet" href="assets/css/components/video-preview.css">
+    <link rel="stylesheet" href="assets/css/components/search-bar.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
 </head>
 <body>
-    <input class="search__bar" type="text" placeholder="Search">
+    <input class="search-bar" type="text" placeholder="Search">
     <div class="video-preview">
-        <div class="thumb1__img"></div>
-        <p class="video__paragraph1">Quavo & Takeoff - Nothing Changed (Official Music Video)</p>
-        <p class="video__paragraph2">Quavo Huncho</p>
-        <p class="video__paragraph3">13M views &#183; 2 months ago</p>
+        <div class="thumbnail-row">
+            <div class="thumb1__img"></div>
+        </div>
+        <div>
+            <div class="channel-picture">
+                <img class="channel__profile-picture" src="assets/channel-pictures/profile-picture1.jpg" alt="Channel Profile Picture">
+            </div>
+            <div class="video-info">
+                <p class="video__paragraph1">
+                    Quavo & Takeoff - Nothing Changed (Official Music Video)
+                </p>
+                <p class="video__paragraph2">
+                    Quavo Huncho
+                </p>
+                <p class="video__paragraph3">
+                    13M views &#183; 2 months ago
+                </p>
+            </div>
+        </div>
     </div>
+    
     <div class="video-preview">
         <div class="thumb2__img"></div>
         <p class="video__paragraph1">Drake & 21 Savage - Jimmy Cooks</p>
