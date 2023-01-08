@@ -9,6 +9,7 @@
     display: inline-block;
     width: 200px;
     font-family: 'Roboto', Arial;
+    background-color: gray;
 }
 
 .video__paragraph1 {
@@ -33,6 +34,7 @@
     display: inline-block;
     width: 50px;
     vertical-align: top;
+    background-color: gray;
 }
 .channel__profile-picture {
     width: 40px;
