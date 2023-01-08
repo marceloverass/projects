@@ -6,10 +6,7 @@
 }
 
 .video-info {
-    display: inline-block;
-    width: 200px;
     font-family: 'Roboto', Arial;
-    background-color: gray;
 }
 
 .video__paragraph1 {
@@ -30,11 +27,13 @@
     color: rgb(96, 96, 96);
 }
 
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
 .channel-picture {
-    display: inline-block;
-    width: 50px;
-    vertical-align: top;
-    background-color: gray;
+    
 }
 .channel__profile-picture {
     width: 40px;
