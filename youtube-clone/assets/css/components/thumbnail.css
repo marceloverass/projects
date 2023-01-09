@@ -1,7 +1,5 @@
 .thumb1__img {
-    width: 320px;
-    height: 180px;
-    background-image: url(/assets/thumbnails/thumb1.jpg);
+    width: 100%;
 }
 
 .thumb1__img:hover {
@@ -10,7 +8,6 @@
 }
 
 .thumb2__img {
-    width: 320px;
     height: 180px;
     background-image: url(/assets/thumbnails/thumb2.jpg);
 }
