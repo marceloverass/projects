@@ -2,17 +2,7 @@
     width: 100%;
 }
 
-.thumb1__img:hover {
-    background-image: url(/assets/thumbnails/thumb1-hover.jpg);
-    cursor: pointer;
-}
 
 .thumb2__img {
-    height: 180px;
-    background-image: url(/assets/thumbnails/thumb2.jpg);
-}
-
-.thumb2__img:hover {
-    background-image: url(/assets/thumbnails/thumb2-hover.jpg);
-    cursor: pointer;
+    width: 100%;
 }
