@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: green;
+    color: #FFF;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    width: 72px;
+}
+
+.sidebar img {
+    width: 30px;
+}
