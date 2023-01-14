@@ -32,4 +32,9 @@
 
 .thumbnail-row {
     margin-bottom: 12px;
+    position: relative;
+}
+
+.thumbnail {
+    width: 100%;
 }
